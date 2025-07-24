@@ -22,7 +22,7 @@ ___
 Отрабатываем основные этапы работы с данными на примере датасета о резюме
 ___
 ### Краткая информация о данных
-[Датасет Head Hanter](PROJECT-1\DATA)
+[Датасет Head Hanter]((https://drive.google.com/drive/folders/14URz2baijXUZqhWejJInBT0P39YokBaE?usp=sharing))
 
 Датасет представляет из себя набор данных в формате csv, состоящий из 44744 строк
 
@@ -39,7 +39,7 @@ ___
 + Обновление резюме
 + Авто
 
-Дополнительно используется [таблица для конвертации валют](https://lms-cdn.skillfactory.ru/assets/courseware/v1/15abf80f45a2f3e93c3274101b451c67/asset-v1:SkillFactory+DSPR-2.0+14JULY2021+type@asset+block/ExchangeRates.zip)
+Дополнительно используется [таблица для конвертации валют]((https://drive.google.com/drive/folders/14URz2baijXUZqhWejJInBT0P39YokBaE?usp=sharing))
 
 [к оглавлению](#оглавление)
 
